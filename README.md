@@ -1,5 +1,6 @@
 # Emerald-Quest-Submission
-Chapter 1 - Day 1
+#Chapter 1
+##Day 1
 Q1: what the Blockchain is ?
 
 a blockchain is a public shared database which every one can interact with or read data from it , unlike centralized databases which normally have a single person or entity in control of this data interms of who can interact or read form it. a blockchain is also known to be de-centralized which means it is distrbuted among many nodes on a network.
